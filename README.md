@@ -8,10 +8,8 @@ WebClient is a non-blocking, reactive client to perform HTTP requests, exposing 
 
 To use WebClient in our Spring boot project, we have to add Spring WebFlux dependency to the classpath.
 
-<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-webflux</artifactId>
-		</dependency>
+`<dependency> <groupId>org.springframework.boot</groupId> <artifactId>spring-boot-starter-webflux</artifactId> </dependency>
+`
   
 # Getting Started
 
